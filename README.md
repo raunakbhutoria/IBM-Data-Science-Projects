@@ -16,6 +16,9 @@ Project/assignment notebooks for courses 2, 4, 5, 6, 7, 8 and 9 are included in 
 The last course, Applied Data Science Capstone, has multiple submissions. These include:
 1. A basic introduction to the capstone project notebook for week 1 of the course
 2. An assignment notebook for week 3 of the course
-3. The final project notebook, report, and presentation.
+3. A PDF document highlighting the introduction and data collection for the final project for week 4 of the course
+4. The final project notebook, project report, and project presentation for week 5 of the course
 
-All of the files mentioned above can be found at https://github.com/raunakbhutoria/Coursera_Capstone. The Coursera_Capstone repository was the one used for making all submissions for the capstone course. Thus, in this repository I will only be including the Week 3 assignment notebook and the final project code notebook. In order to get the report, presentation, and other materials for the capstone course, please visit the Coursera_Capstone repository.
+All of the files mentioned above can be found at https://github.com/raunakbhutoria/Coursera_Capstone. The Coursera_Capstone repository was the one used for making all submissions for the capstone course. Thus, in this repository I will only be including the Week 3 assignment notebook and the final project code notebook. In order to view the report, presentation, and other materials of the capstone course, please visit my Coursera_Capstone repository.
+
+# Thank You!
