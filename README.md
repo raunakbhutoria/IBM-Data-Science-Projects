@@ -1,6 +1,7 @@
 # IBM Data Science Professional Certificate Projects
 
-This repository contains the final projects for courses in the IBM Data Science Professional Certificate on Coursera. This professional certificate contains 9 courses. These are as follows:
+This repository contains the final projects for courses in the IBM Data Science Professional Certificate on Coursera.
+This professional certificate contains 9 courses. These are as follows:
 1 - What is Data Science?
 2 - Tools for Data Science
 3 - Data Science Methodology
@@ -11,4 +12,5 @@ This repository contains the final projects for courses in the IBM Data Science 
 8 - Machine Learning with Python
 9 - Applied Data Science Capstone
 
-Final project/assignment notebooks for courses 2, 4, 5, 6, 7, 8 and 9 are included in this repository. Courses 1 and 3 only have quizzes as part of their assignments. Hence, there are no notebooks for them.
+Final project/assignment notebooks for courses 2, 4, 5, 6, 7, 8 and 9 are included in this repository.
+Courses 1 and 3 only have quizzes as part of their assignments. Hence, there are no notebooks for them.
